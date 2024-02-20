@@ -1,1 +1,0 @@
-Estou tentando entender como commitar
